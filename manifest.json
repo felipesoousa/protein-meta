@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "appUrl": "https://raw.githubusercontent.com/felipesoousa/protein-meta/main/app.js",
-  "releaseNotes": "Versão 1.0.0: Tabela TACO (597 alimentos), medidas caseiras ANVISA, modo noturno automático 6h-18h e persistência desacoplada."
+  "releaseNotes": "Versão 1.0.1: Ajuste fino de fuso horário local para o reset diário à meia-noite."
 }
