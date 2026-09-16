@@ -1,5 +1,5 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.2",
   "appUrl": "https://raw.githubusercontent.com/felipesoousa/protein-meta/main/app.js",
-  "releaseNotes": "Versão 1.0.1: Ajuste fino de fuso horário local para o reset diário à meia-noite."
+  "releaseNotes": "Versão 1.0.2: Novo design artesanal elegante (Caprasimo + Figtree, paleta terracota/sage), ícones SVG e correções nutricionais da TACO (iogurte de fruta e leites)."
 }
